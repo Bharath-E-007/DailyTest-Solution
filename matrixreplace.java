@@ -61,40 +61,46 @@ public class matrixreplace {
         System.exit(0);
     }
 }
-/*54
+/*
+Example Input/Output 1:
 
-arj
+Input:
 
-g**b
+5 4
 
-FVtY
+a r j *
 
-aVRQ
+g * * b
 
-**xL
+F V t Y
 
-Output
+a V R Q
 
-axrJ
+* * x L
 
-glab
+Output:
 
-FVtY
+a x r J
 
-aVRQ
+g l a b
 
-VRxL
+F V t Y
+
+a V R Q
+
+V R x L
 
 Explanation:
 
 After replacing the asterisks (from the first row to the last row) with the alphabets (from the last row to the first row), the matrix becomes
 
-axrJ
+a x r J
 
-glab
+g l a b
 
-FVtY
+F V t Y
 
-aVRQ
+a V R Q
 
-VRxL */
+V R x L
+*/
